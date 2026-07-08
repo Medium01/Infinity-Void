@@ -1,0 +1,6 @@
+{
+  "name": "Infinite Void",
+  "description": "WhatsApp script interface with a sleek design",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
